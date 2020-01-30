@@ -16,7 +16,7 @@ function App() {
     <main>
       <h1>Web 26 Is Ah-May-Zing 🚀</h1>
       <h2>
-        Deployed with{' '}
+        Deployed with 💓 using
         <a
           href="https://zeit.co/docs"
           target="_blank"
